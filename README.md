@@ -2,4 +2,4 @@
 Analysis of variance on Plant growth study based on dried weights and different treatments.
  using one way annova.<br/><br/>
  
-![Alt_text](result.JPG?raw=true "one way anova")
+![one way anova](result.JPG?raw=true "one way anova")
